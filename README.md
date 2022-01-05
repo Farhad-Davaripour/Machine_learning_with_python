@@ -1,6 +1,6 @@
 ## Hands-on Practice Learning Lab for Data Science
 
-![image](kmean.png)
+![image](Kmean.png)
 
 ### Overview
 * * *
