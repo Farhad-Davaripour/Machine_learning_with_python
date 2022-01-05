@@ -1,0 +1,2 @@
+# Machine_learning_with_python
+The present notebook provides data analysis on several datasets using different machine learning (ML) techniques including:  supervised ML regression models classification methods K nearest neighbor decision tree logistic regression support vector machine (SVM) unsupervised ML clustering partition-based method (k-mean) hierarchical method (Agglomerative clustering) density-based method (DSSCAN method) recommender system content based collaborative based
