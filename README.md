@@ -7,19 +7,19 @@
 This repository includes several hands on labs provided as a part of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) course, offered by [coursera.org](https://www.coursera.org/).  
 
 The present notebook provides data analysis on several datasets using different machine learning (ML) techniques including:
-* supervised ML
+* Supervised ML
     * regression models
     * classification methods
         * K nearest neighbor
         * decision tree   
         * logistic regression
         * support vector machine (SVM)
-* unsupervised ML
+* Unsupervised ML
     * clustering
         * partition-based method (k-mean)
         * hierarchical method (Agglomerative clustering)
         * density-based method (DSSCAN method)
-* recommender system
+* Recommender system
     * content based
     * collaborative based  
 
