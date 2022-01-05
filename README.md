@@ -4,7 +4,7 @@
 
 ### Overview
 * * *
-This hands on practice lab is a part of (Machine Learning with Python)[https://www.coursera.org/learn/machine-learning-with-python] course, offered by [coursera.org](https://www.coursera.org/).  
+This hands on practice lab is a part of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) course, offered by [coursera.org](https://www.coursera.org/).  
 
 The present notebook provides data analysis on several datasets using different machine learning (ML) techniques including:
 * supervised ML
