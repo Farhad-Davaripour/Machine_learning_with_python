@@ -2,7 +2,7 @@
 
 ![image](DBSCAN.png)
 
-### Overview 
+### Overview  
 * * *
 This repository includes several hands on labs provided as a part of [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) course, offered by [coursera.org](https://www.coursera.org/).  
 
